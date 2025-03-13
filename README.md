@@ -1,3 +1,14 @@
+## DAI-101: Assignment-1
+
+
+---
+
+#### Name: Animesh Kumar Maitreya
+#### Enrollment Number: 23114005
+#### Sub-Batch: CS-1 (CSE)
+
+---
+
 **Comprehensive Exploratory Data Analysis (EDA) of Pokémon Dataset**  
 **In-Depth Insights and Strategic Observations**  
 
